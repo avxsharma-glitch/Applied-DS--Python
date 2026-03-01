@@ -52,7 +52,7 @@ Implementation of vector operations and orthogonality concepts.
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/avxsharma-glitch/Applied-DS--Python.git
 
 2. Navigate to the project folder:
 
